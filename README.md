@@ -1,5 +1,5 @@
    # Segmentação de clientes de um supermercado
-U.,mn bm supermercado mantem dados de seus clientes através de um cadastro de cartões de fidelidade. Estes cartões contem os seguintes dados: ID do cliente, idade, gênero, renda anual e escore de gastos. O escore de gastos é atribuído com base em parrâmetros de comportamento e datas de compras.
+Um supermercado mantem os dados de seus clientes através de um cadastro de cartões de fidelidade. Estes cartões contem os seguintes dados: ID do cliente, idade, gênero, renda anual e escore de gastos. O escore de gastos é atribuído com base em parrâmetros de comportamento e datas de compras.
 
 [Link original para o dataset](https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python)
 
