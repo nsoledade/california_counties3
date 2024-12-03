@@ -47,9 +47,9 @@ Na pasta 'notebooks' estão os notebooks desenvolvidos ao longo do projeto:
 ## Resultados
 Foi montado um pipeline para execução das etapas de pré-processamento, PCA  e K-Means que resultou na segmentação da base em 5 clusters mostrados nas seguintes gráficos:
 
-![boxplot](imagens/Figure_3.png)
+[boxplot](imagens/Figure_3.png)
 
-![pairplot](imagens/pairplot.png)
+[pairplot](imagens/pairplot.png)
 
 A tabela a seguir resume as 5 categorias:
 
