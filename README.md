@@ -70,3 +70,4 @@ A tabela a seguir resume as 5 categorias:
  
 # housing_california
 # california_realst
+# california_realst
